@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A51972A42AC357B200E78247 /* Date+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51972A32AC357B200E78247 /* Date+Ext.swift */; };
 		A52DB2842ABF70780092974B /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52DB2832ABF70780092974B /* User.swift */; };
 		A52DB2862ABF77450092974B /* OrderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52DB2852ABF77450092974B /* OrderViewModel.swift */; };
 		A52DB2892ABF7E250092974B /* EmptyState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52DB2882ABF7E250092974B /* EmptyState.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A51972A32AC357B200E78247 /* Date+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Ext.swift"; sourceTree = "<group>"; };
 		A52DB2832ABF70780092974B /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		A52DB2852ABF77450092974B /* OrderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewModel.swift; sourceTree = "<group>"; };
 		A52DB2882ABF7E250092974B /* EmptyState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyState.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 			children = (
 				A5F270832ABE0B8500AFD6EC /* Color+Ext.swift */,
 				A54396F52ABF585E00C0755C /* String+Ext.swift */,
+				A51972A32AC357B200E78247 /* Date+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -332,6 +335,7 @@
 				A5F270842ABE0B8500AFD6EC /* Color+Ext.swift in Sources */,
 				A5F270722ABD938200AFD6EC /* AccountView.swift in Sources */,
 				A52DB2842ABF70780092974B /* User.swift in Sources */,
+				A51972A42AC357B200E78247 /* Date+Ext.swift in Sources */,
 				A54396F02ABF48E100C0755C /* APButton.swift in Sources */,
 				A5F270822ABE0A5500AFD6EC /* LoadingView.swift in Sources */,
 				A5F270642ABD926C00AFD6EC /* AppetizerTabView.swift in Sources */,
